@@ -38,7 +38,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         return true
     }
-
+//test
     func opendb() {
         if sqlite3_open(dst, &db) == SQLITE_OK {
             print("資料庫開啟成功")
