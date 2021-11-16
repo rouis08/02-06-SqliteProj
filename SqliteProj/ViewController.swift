@@ -113,7 +113,7 @@ class ViewController: UIViewController {
         }
     }
     
-    
+    //test again
     func query() {
         let app = UIApplication.shared.delegate as! AppDelegate
         
