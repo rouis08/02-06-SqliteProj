@@ -15,6 +15,7 @@
 		6BAE835D22E09F84002318BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BAE835B22E09F84002318BC /* LaunchScreen.storyboard */; };
 		6BAE836522E0A2A8002318BC /* mydb.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 6BAE836422E09F9C002318BC /* mydb.sqlite */; };
 		6BAE836722E0AFCF002318BC /* head.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6BAE836622E0AFCE002318BC /* head.jpg */; };
+		716788FB27450410000132F0 /* git_test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 716788FA27450410000132F0 /* git_test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		6BAE835E22E09F84002318BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6BAE836422E09F9C002318BC /* mydb.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = mydb.sqlite; sourceTree = "<group>"; };
 		6BAE836622E0AFCE002318BC /* head.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = head.jpg; sourceTree = "<group>"; };
+		716788FA27450410000132F0 /* git_test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = git_test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				6BAE835922E09F84002318BC /* Assets.xcassets */,
 				6BAE835B22E09F84002318BC /* LaunchScreen.storyboard */,
 				6BAE835E22E09F84002318BC /* Info.plist */,
+				716788FA27450410000132F0 /* git_test.swift */,
 			);
 			path = SqliteProj;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				716788FB27450410000132F0 /* git_test.swift in Sources */,
 				6BAE835522E09F82002318BC /* ViewController.swift in Sources */,
 				6BAE835122E09F82002318BC /* AppDelegate.swift in Sources */,
 				6BAE835322E09F82002318BC /* SceneDelegate.swift in Sources */,

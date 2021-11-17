@@ -161,6 +161,12 @@ class ViewController: UIViewController {
         }
     }
     
+    func printMessage()
+    {
+        print("This print function is made by Louis");
+        
+    }
+    
     
 }
 
