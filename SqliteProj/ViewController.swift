@@ -22,8 +22,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(fireTimer), userInfo: nil, repeats: true)
         
-        insert()
-        saveImage()
+        insert()                //insert text
+        saveImage()             //insert blob (jpg)
         query()
     }
     
