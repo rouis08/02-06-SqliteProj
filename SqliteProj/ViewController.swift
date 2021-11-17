@@ -163,7 +163,13 @@ class ViewController: UIViewController {
     
     func printMessage()
     {
-        print("This print function is made by Louis");
+        print("This print function is made by Louis")
+        
+    }
+    
+    func onlyMainbranch()
+    {
+        print("I want this function only apear on main branch")
         
     }
     
