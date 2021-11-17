@@ -175,6 +175,10 @@ class ViewController: UIViewController {
     
     //try the stage
     
+    //I have connected to github,
+    //I want to commit to local
+    //then push to remote
+    
     
 }
 
